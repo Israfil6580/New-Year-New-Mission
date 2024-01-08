@@ -405,6 +405,12 @@ footer p {
     justify-content: space-between;
     align-items: center;
 }
+hr {
+    height: 1px;
+    border: none;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 50px 0;
+}
 .footer-top > .right {
     margin-right: 100px;
 }
@@ -425,7 +431,6 @@ footer p {
     gap: 24px;
     justify-content: center;
     align-items: center;
-    margin: 98px 0;
 }
 
 .footer-mid>.icon>img {
